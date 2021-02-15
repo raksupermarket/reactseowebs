@@ -37,7 +37,7 @@ const SinglePage = ({ match }) => {
       <div className="row">
         <div className="col-12 col-md-12 p-3 p-md-5">
           <div className="shadow rounded p-3 p-md-5 uk-animation-slide-right">
-            <img className="img-fluid" src="https://1.bp.blogspot.com/-8TDWnq41TuE/Xzt03g86CoI/AAAAAAAALN4/RRO9T2k3or8x4xx6vBDAmdn0lIHLU6oIACLcBGAsYHQ/s1500/aplikasi%2Btoko%2Bmesin%2Bkasir%2Bonline%2Blaravel%2Bpoint%2Bof%2Bsale%2Bcashier%2Bapps%2B%25282%2529.jpg" />
+            <img className="img-fluid" src={article.img} />
             <h1>
               <strong>
                 <a href="/" className="text-danger">

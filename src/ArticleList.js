@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 const ArticleList = ({ articles }) => (
   <>
     <Helmet>
+  <meta name="google-site-verification" content="YxQy4XuwrF6iIorC7vGlVbk8WLSFN-C9k8RSQ0ttoTs" />
       <title>Aplikasi penjualan kasir toko grosir dan eceran</title>
       <meta
         name="description"
